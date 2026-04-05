@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,python,react,nodejs,github,vscode,AI" />
 
 </p>
 
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ravinderkumard&theme=tokyonight" />
 </p>
 
 ---
@@ -56,8 +56,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ravinder-kumar-dabgotra/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:ravinderkumardabgotra@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
