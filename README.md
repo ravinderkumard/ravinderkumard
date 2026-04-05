@@ -9,10 +9,24 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning **Your Tech Stack (e.g., MERN / AI / DSA)**
-- 💬 Ask me about **JavaScript, Python, Web Dev**
-- 🎯 Goal: Become a **Top Developer / Open Source Contributor**
-- ⚡ Fun fact: I love solving problems & building cool stuff
+🚀 **Principal Engineer & Solution Architect** with 14+ years of experience building resilient, scalable backend systems and cloud-native platforms.
+
+I specialize in **Java & Python backend development, AWS Cloud, microservices, and distributed systems**, with a strong track record of leading **digital transformation initiatives** across Financial Services, IoT, and E-commerce domains. My work focuses on re-architecting legacy systems into modern, high-performance solutions that align closely with business goals.
+
+I thrive in **ambiguous and fast-paced environments**, where I can break down complex problems, drive technical direction, and collaborate across teams to deliver impactful outcomes. I’m passionate about designing systems that are not only scalable and reliable, but also efficient and maintainable.
+
+💡 **What I bring:**
+
+* Architecting cloud-native, event-driven systems at scale
+* Driving performance optimization and system reliability
+* Translating business needs into robust technical solutions
+* Mentoring teams and fostering engineering excellence
+
+🤖 **AI-Focused Architecture:**
+I design and evolve **AI-native system architectures**, leveraging **AI Agents and Agentic AI systems** to build intelligent, autonomous workflows. My focus includes enabling **Agent-to-Agent (A2A) collaboration**, integrating **Model Context Protocols (MCPs)**, and embedding AI capabilities into distributed systems using both **Java and Python ecosystems** to create adaptive, context-aware platforms.
+
+⚡ I enjoy solving hard problems, building systems that last, and continuously pushing the boundaries of scalable and intelligent system design.
+
 
 ---
 
@@ -42,14 +56,20 @@
 ---
 
 ## 🚀 Featured Projects
-- 🔗 **Project 1** – Short description  
+- 🔗 **Mini Jarvis**
+  – Mini Jarvis is a smart, agent-powered system built around a three-layer intelligence model that listens, thinks, and acts.
+
+At its core, the Listener Agent serves as the entry point—capturing voice or text input and understanding the user’s intent. The Meta-Agent functions as the brain, orchestrating the workflow by deciding which specialized agent should handle the request. Finally, the Domain Agents (such as a Trip Planner or other task-specific agents) execute the task and generate meaningful results.
+
+Together, these agents transform Mini Jarvis into a proactive digital assistant that turns natural commands into intelligent, real-world actions seamlessly.
+
 - 🔗 **Project 2** – Short description  
 - 🔗 **Project 3** – Short description  
 
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ravinder-kumar-dabgotra/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:ravinderkumardabgotra@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
@@ -57,4 +77,5 @@
 ---
 
 ## ✨ Quote
-> “Code. Learn. Build. Repeat.”
+> “Learn. Build. Repeat.” <br/>
+> “I aspire to leave behind a legacy of trust, integrity, and respect—much like Rahul Dravid—where reputation defines the journey as much as achievements.”
