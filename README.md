@@ -1,11 +1,5 @@
-# I'm Ravinder Kumar 👋
 
-<img alt="my stats" align="left" width="45%" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=ravinderkumard&show_icons=true&theme=gradient&show_icons=true" />
-<img alt="my stats" align="left" width="45%" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravinderkumard&layout=compact" />
-
-
-
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Ravinder Kumar</h1>
 <h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
