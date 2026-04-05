@@ -59,7 +59,7 @@ I design and evolve **AI-native system architectures**, leveraging **AI Agents a
 - 🔗 **Mini Jarvis**
   – Mini Jarvis is a smart, agent-powered system built around a three-layer intelligence model that listens, thinks, and acts.
 
-At its core, the Listener Agent serves as the entry point—capturing voice or text input and understanding the user’s intent. The Meta-Agent functions as the brain, orchestrating the workflow by deciding which specialized agent should handle the request. Finally, the Domain Agents (such as a Trip Planner or other task-specific agents) execute the task and generate meaningful results.
+At its core, the Smart Listener Agent serves as the entry point—capturing voice or text input and understanding the user’s intent. The Meta-Agent functions as the brain, orchestrating the workflow by deciding which specialized agent should handle the request. Finally, the Domain Agents (ai_trip_planner) execute the task and generate meaningful results.
 
 Together, these agents transform Mini Jarvis into a proactive digital assistant that turns natural commands into intelligent, real-world actions seamlessly.
 
