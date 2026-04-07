@@ -58,7 +58,7 @@ Designing intelligent, adaptive architectures using:
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=java,spring,js,python,react,nodejs,github,vscode,Langgraph,Langchain" />
 
