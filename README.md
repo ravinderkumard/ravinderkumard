@@ -67,7 +67,7 @@ Designing intelligent, adaptive architectures using:
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravinderkumard&show_icons=true&theme=tokyonight" />
 </p>
@@ -75,7 +75,7 @@ Designing intelligent, adaptive architectures using:
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravinderkumard&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ravinderkumard&theme=tokyonight" />
 </p>
