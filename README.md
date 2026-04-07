@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ravinder Kumar</h1>
-<h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 Principal Engineer & Solution Architect | Distributed Systems | AI-Native Architectures</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravinderkumard&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -27,6 +27,33 @@ I design and evolve **AI-native system architectures**, leveraging **AI Agents a
 
 ⚡ I enjoy solving hard problems, building systems that last, and continuously pushing the boundaries of scalable and intelligent system design.
 
+
+---
+
+## 💼 Impact
+- Led monolith → microservices transformations at scale
+- Designed high-throughput distributed systems with strong reliability
+- Improved performance, scalability, and operational efficiency
+- Delivered business-critical platforms aligned with enterprise goals
+- Mentored engineers and drove engineering excellence
+
+---
+
+## 🧠 Architecture Focus
+- Distributed Systems & Event-Driven Architecture
+- Microservices & Cloud-Native Platforms (AWS)
+- Scalable Backend Systems (Java & Python)
+- System Design, Performance & Reliability Engineering
+- API & Platform Engineering
+
+---
+
+## 🤖 AI-Native Systems
+Designing intelligent, adaptive architectures using:
+- AI Agents & Agentic Systems
+- Agent-to-Agent (A2A) Communication
+- Model Context Protocols (MCP)
+- Context-aware and autonomous workflows
 
 ---
 
