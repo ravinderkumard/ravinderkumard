@@ -90,6 +90,11 @@ At its core, the Smart Listener Agent serves as the entry point—capturing voic
 
 Together, these agents transform Mini Jarvis into a proactive digital assistant that turns natural commands into intelligent, real-world actions seamlessly.
 
+Smart Listener: https://github.com/ravinderkumard/smart_listener.git
+Meta-Agent: https://github.com/ravinderkumard/meta_agent_service.git
+AI Trip Planner : https://github.com/ravinderkumard/ai_trip_planner.git
+
+
 - 🔗 **Project 2** – Short description  
 - 🔗 **Project 3** – Short description  
 
