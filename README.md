@@ -95,8 +95,7 @@ Together, these agents transform Mini Jarvis into a proactive digital assistant 
 - AI Trip Planner : https://github.com/ravinderkumard/ai_trip_planner.git
 
 
-- 🔗 **Project 2** – Short description  
-- 🔗 **Project 3** – Short description  
+  
 
 ---
 
