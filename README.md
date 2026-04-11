@@ -94,7 +94,7 @@ Together, these agents transform Mini Jarvis into a proactive digital assistant 
 - Meta-Agent: https://github.com/ravinderkumard/meta_agent_service.git
 - AI Trip Planner : https://github.com/ravinderkumard/ai_trip_planner.git
 
-**Review complete architecture** : https://github.com/ravinderkumard/system-architecture/blob/main/mini-jarvis.md
+**Review architecture(In progress)** : https://github.com/ravinderkumard/system-architecture/blob/main/mini-jarvis.md
   
 
 ---
