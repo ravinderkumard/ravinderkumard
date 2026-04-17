@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🚀 **Principal Engineer & Solution Architect** with 14+ years of experience building resilient, scalable backend systems and cloud-native platforms.
+🚀 **Principal Engineer & Sr. Solution Architect** with 14+ years of experience building resilient, scalable backend systems and cloud-native platforms.
 
 I specialize in **Java & Python backend development, AWS Cloud, microservices, and distributed systems**, with a strong track record of leading **digital transformation initiatives** across Financial Services, IoT, and E-commerce domains. My work focuses on re-architecting legacy systems into modern, high-performance solutions that align closely with business goals.
 
