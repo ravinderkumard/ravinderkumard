@@ -83,6 +83,12 @@ Designing intelligent, adaptive architectures using:
 ---
 
 ## 🚀 Featured Projects
+- 🔗 **Hybrid Search**
+      Hybrid Search Architecture Using BM25, FAISS, RRF, and Cohere Reranking
+      https://medium.com/@1ravinder1/building-a-hybrid-retrieval-system-beyond-basic-rag-13093ad836ec
+      <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b96a1dbb-89f6-4151-9428-2d77b75e6157" />
+
+      
 - 🔗 **Mini Jarvis**
   – Mini Jarvis is a smart, agent-powered system built around a three-layer intelligence model that listens, thinks, and acts.
 
