@@ -79,6 +79,9 @@ Designing intelligent, adaptive architectures using:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ravinderkumard&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravinderkumard&theme=github_dark" />
+</p>
 
 ---
 
